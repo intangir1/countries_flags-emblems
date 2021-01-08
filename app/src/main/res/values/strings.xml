@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountriesApplication</string>
+    <string name="israel">israel</string>
+    <string name="america">america</string>
+    <string name="russia">russia</string>
+    <string name="germany">germany</string>
+    <string name="britain">britain</string>
+    <string name="poland">poland</string>
+</resources>
